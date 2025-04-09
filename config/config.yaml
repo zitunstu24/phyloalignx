@@ -1,0 +1,5 @@
+input_sequence_file: "./data/For_phylogenetic_tree_eds1_pad4_adr1.fa"
+aligned_output_file: "./data/aligned_sequences.fasta"
+tree_output_file: "./data/phylogenetic_tree"
+raxml_model: "GTRGAMMA"
+bootstrap_replicates: 100
